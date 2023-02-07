@@ -321,9 +321,8 @@ section {
 
 .section3-flexbox {
   width: 100%;
-  
-  margin-left: 10%;
-  display: flex;
+  height: auto;
+  margin-left: 30%;
   flex-direction: column;
 }
 
@@ -377,7 +376,7 @@ section {
 .section3-img {
   display: flex;
   margin-left: 40%;
-  margin-top: -500px;
+  
   
 }
 
@@ -468,8 +467,10 @@ section {
 
 .section5-flexbox {
   width: 100%;
-  max-width: 30%;
   height: auto;
+  margin-left: 10%;
+  flex-direction: column;
+  
   
   
 
